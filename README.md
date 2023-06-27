@@ -1,8 +1,4 @@
-# ALGOSUP_2022_Project_3_C
-
-
-
-Tu run the project as
+run the project as
 ## Console App:
 
 ```
