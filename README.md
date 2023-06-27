@@ -1,5 +1,5 @@
-# Run the project as
-## Console App:
+# You can use the project in various ways: 
+- ## Console App:
 
 ```
 dotnet run start
@@ -26,7 +26,7 @@ To add a command, create it and then add it in **program.fs** in:
 ```fs
 let rec commands (name : string)
 ```
-## Library:
+- ## Library:
 As a library, you can use the function build in.
 
 You can find here the four basic waves:
