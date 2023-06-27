@@ -1,4 +1,4 @@
-#run the project as
+# Run the project as
 ## Console App:
 
 ```
